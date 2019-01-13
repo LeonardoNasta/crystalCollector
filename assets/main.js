@@ -3,8 +3,7 @@ $(document).ready(function() {
     var wins= 0
     var losses= 0
     var userScore=0
-    var userScore=0
-
+    
     var computerNumber=Math.floor(Math.random()*101+19)
     console.log()
     //number between 19 and 120
