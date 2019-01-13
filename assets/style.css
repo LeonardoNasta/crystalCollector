@@ -1,0 +1,48 @@
+
+body {
+    background-image: url("images/bg4.gif");
+    background-size: cover;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    color:rgb(179, 236, 157);
+
+}
+
+p {
+    font-size: 1.1em
+}
+
+
+#wins {
+    margin-top: 50px;
+    font-size: 1.4em;
+}
+
+#losses {
+    font-size: 1.4em;
+    margin-bottom: 50px;
+}
+
+.gameInfo {
+    background:rgba(246, 250, 255, 0.171);
+    width: 600px;
+    margin-left: 5px;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    color: rgb(255, 255, 255);
+
+}
+
+
+.ore {
+width: 120px;
+height: 120px;
+margin-top: 30px;
+}
+
+#computerNumber {
+    color:rgb(179, 236, 157);
+    font-size: 2em;
+    margin-left: 30px;
+}
